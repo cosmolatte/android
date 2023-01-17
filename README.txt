@@ -1,0 +1,1 @@
+처음으로 android studio 커밋. 미완성 된것이나 보존하기 위해 push
